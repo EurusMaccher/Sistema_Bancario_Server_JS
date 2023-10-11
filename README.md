@@ -17,6 +17,10 @@ codigos completo da resolução do desafio proposto, dividido em 4 arquivos prin
 
 Simular um sistema bancario utilizado por cliente, criando validações simples de cadastro, movimentações financeiras e afins.
 
+### preparando o projeto:
+
+- para preparar o ambiente no vscode para utilizar o projeto é necessario rodar o 'npm install' para a instalação das depedencias.
+
 # DOCUMENTAÇÃO DO DESAFIO:
 
 
