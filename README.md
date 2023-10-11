@@ -21,6 +21,10 @@ Simular um sistema bancario utilizado por cliente, criando validações simples 
 
 - para preparar o ambiente no vscode para utilizar o projeto é necessario rodar o 'npm install' para a instalação das depedencias.
 
+![index.js](https://i.postimg.cc/sxqXWj62/1.jpg)
+![roteador.js](https://i.postimg.cc/h45h6sDq/2.jpg)
+![controlador.js](https://i.postimg.cc/sxNBJ9Xs/3.jpg)
+
 # DOCUMENTAÇÃO DO DESAFIO:
 
 
